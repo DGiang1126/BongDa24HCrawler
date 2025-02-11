@@ -1,0 +1,2042 @@
+    [
+    {
+        "days": "09/02",
+        "name_match": "Quảng Nam - Bình Dương",
+        "result": "1 - 2",
+        "match_rounds": " 12 "
+    },
+    {
+        "days": "09/02",
+        "name_match": "Hà Nội - SLNA",
+        "result": "3 - 0",
+        "match_rounds": " 12 "
+    },
+    {
+        "days": "10/02",
+        "name_match": "Hà Tĩnh - CAHN",
+        "result": "vs",
+        "match_rounds": " 12 "
+    },
+    {
+        "days": "09/02",
+        "name_match": "Las Palmas - Villarreal",
+        "result": "1 - 2",
+        "match_rounds": " Khác "
+    },
+    {
+        "days": "09/02",
+        "name_match": "Real Madrid - Atletico",
+        "result": "1 - 1",
+        "match_rounds": " Khác "
+    },
+    {
+        "days": "09/02",
+        "name_match": "Alaves - Getafe",
+        "result": "0 - 1",
+        "match_rounds": " 23 "
+    },
+    {
+        "days": "09/02",
+        "name_match": "Valencia - Leganes",
+        "result": "2 - 0",
+        "match_rounds": " Khác "
+    },
+    {
+        "days": "10/02",
+        "name_match": "Sociedad - Espanyol",
+        "result": "2 - 1",
+        "match_rounds": " Khác "
+    },
+    {
+        "days": "10/02",
+        "name_match": "Sevilla - Barcelona",
+        "result": "1 - 4",
+        "match_rounds": " Khác "
+    },
+    {
+        "days": "09/02",
+        "name_match": "Empoli - AC Milan",
+        "result": "0 - 2",
+        "match_rounds": " Khác "
+    },
+    {
+        "days": "09/02",
+        "name_match": "Torino - Genoa",
+        "result": "1 - 1",
+        "match_rounds": " 24 "
+    },
+    {
+        "days": "09/02",
+        "name_match": "Venezia - AS Roma",
+        "result": "0 - 1",
+        "match_rounds": " Khác "
+    },
+    {
+        "days": "09/02",
+        "name_match": "Cagliari - Parma",
+        "result": "2 - 1",
+        "match_rounds": " Khác "
+    },
+    {
+        "days": "09/02",
+        "name_match": "Lazio - Monza",
+        "result": "5 - 1",
+        "match_rounds": " Khác "
+    },
+    {
+        "days": "10/02",
+        "name_match": "Lecce - Bologna",
+        "result": "0 - 0",
+        "match_rounds": " Khác "
+    },
+    {
+        "days": "10/02",
+        "name_match": "Napoli - Udinese",
+        "result": "1 - 1",
+        "match_rounds": " Khác "
+    },
+    {
+        "days": "09/02",
+        "name_match": "Borussia M'gladbach - E.Frankfurt",
+        "result": "1 - 1",
+        "match_rounds": " Khác "
+    },
+    {
+        "days": "09/02",
+        "name_match": "Holstein Kiel - VfL Bochum",
+        "result": "2 - 2",
+        "match_rounds": " Khác "
+    },
+    {
+        "days": "09/02",
+        "name_match": "RB Leipzig - St. Pauli",
+        "result": "2 - 0",
+        "match_rounds": " Khác "
+    },
+    {
+        "days": "09/02",
+        "name_match": "Lille - Le Havre",
+        "result": "1 - 2",
+        "match_rounds": " Khác "
+    },
+    {
+        "days": "09/02",
+        "name_match": "Saint-Etienne - Rennes",
+        "result": "0 - 2",
+        "match_rounds": " 21 "
+    },
+    {
+        "days": "09/02",
+        "name_match": "Lyon - Reims",
+        "result": "4 - 0",
+        "match_rounds": " Khác "
+    },
+    {
+        "days": "09/02",
+        "name_match": "Auxerre - Toulouse",
+        "result": "2 - 2",
+        "match_rounds": " Khác "
+    },
+    {
+        "days": "09/02",
+        "name_match": "Strasbourg - Montpellier",
+        "result": "2 - 0",
+        "match_rounds": " Khác "
+    },
+    {
+        "days": "10/02",
+        "name_match": "Angers - Marseille",
+        "result": "0 - 2",
+        "match_rounds": " Khác "
+    },
+    {
+        "days": "09/02",
+        "name_match": "Birmingham City - Newcastle",
+        "result": "2 - 3",
+        "match_rounds": " 4 "
+    },
+    {
+        "days": "09/02",
+        "name_match": "Brighton - Chelsea",
+        "result": "2 - 1",
+        "match_rounds": " 4 "
+    },
+    {
+        "days": "09/02",
+        "name_match": "Blackburn Rovers - Wolves",
+        "result": "0 - 2",
+        "match_rounds": " 4 "
+    },
+    {
+        "days": "09/02",
+        "name_match": "Plymouth Argyle - Liverpool",
+        "result": "1 - 0",
+        "match_rounds": " 4 "
+    },
+    {
+        "days": "10/02",
+        "name_match": "Aston Villa - Tottenham",
+        "result": "2 - 1",
+        "match_rounds": " 4 "
+    },
+    {
+        "days": "09/02",
+        "name_match": "Bristol City - Swansea",
+        "result": "0 - 1",
+        "match_rounds": " 31 "
+    },
+    {
+        "days": "09/02",
+        "name_match": "AC Reggiana",
+        "result": "0 - 1",
+        "match_rounds": " Khác "
+    },
+    {
+        "days": "09/02",
+        "name_match": "Cremonese - Sudtirol",
+        "result": "3 - 1",
+        "match_rounds": " Khác "
+    },
+    {
+        "days": "09/02",
+        "name_match": "Spezia - Palermo",
+        "result": "2 - 2",
+        "match_rounds": " Khác "
+    },
+    {
+        "days": "09/02",
+        "name_match": "Bari",
+        "result": "3 - 1",
+        "match_rounds": " 25 "
+    },
+    {
+        "days": "09/02",
+        "name_match": "Metz - Clermont Foot 63",
+        "result": "3 - 1",
+        "match_rounds": " 22 "
+    },
+    {
+        "days": "09/02",
+        "name_match": "St.Truiden",
+        "result": "2 - 1",
+        "match_rounds": " 25 "
+    },
+    {
+        "days": "09/02",
+        "name_match": "Genk - Cercle Brugge",
+        "result": "2 - 1",
+        "match_rounds": " 25 "
+    },
+    {
+        "days": "09/02",
+        "name_match": "Anderlecht - Royal Antwerp",
+        "result": "2 - 0",
+        "match_rounds": " 25 "
+    },
+    {
+        "days": "09/02",
+        "name_match": "Kortrijk - Union St.Gilloise",
+        "result": "1 - 2",
+        "match_rounds": " 25 "
+    },
+    {
+        "days": "10/02",
+        "name_match": "Standard Liege",
+        "result": "4 - 2",
+        "match_rounds": " 25 "
+    },
+    {
+        "days": "10/02",
+        "name_match": "Beerschot - Sporting Charleroi",
+        "result": "1 - 1",
+        "match_rounds": " 25 "
+    },
+    {
+        "days": "09/02",
+        "name_match": "Benfica",
+        "result": "3 - 2",
+        "match_rounds": " 21 "
+    },
+    {
+        "days": "09/02",
+        "name_match": "Famalicao",
+        "result": "0 - 0",
+        "match_rounds": " 21 "
+    },
+    {
+        "days": "09/02",
+        "name_match": "Estoril - Boavista",
+        "result": "2 - 1",
+        "match_rounds": " 21 "
+    },
+    {
+        "days": "09/02",
+        "name_match": "Farense - Nacional",
+        "result": "0 - 2",
+        "match_rounds": " 21 "
+    },
+    {
+        "days": "10/02",
+        "name_match": "SC Braga",
+        "result": "2 - 0",
+        "match_rounds": " 21 "
+    },
+    {
+        "days": "10/02",
+        "name_match": "Casa Pia AC - CF Estrela da Amadora",
+        "result": "1 - 0",
+        "match_rounds": " 21 "
+    },
+    {
+        "days": "09/02",
+        "name_match": "Damac - Al Hilal",
+        "result": "2 - 2",
+        "match_rounds": " 19 "
+    },
+    {
+        "days": "09/02",
+        "name_match": "Deinze",
+        "result": "vs",
+        "match_rounds": " 21 "
+    },
+    {
+        "days": "09/02",
+        "name_match": "Patro Eisden - Jong Genk",
+        "result": "1 - 0",
+        "match_rounds": " 21 "
+    },
+    {
+        "days": "09/02",
+        "name_match": "RWD Molenbeek - RSCA Futures",
+        "result": "1 - 0",
+        "match_rounds": " 21 "
+    },
+    {
+        "days": "09/02",
+        "name_match": "Eupen - K Lierse S.K.",
+        "result": "1 - 3",
+        "match_rounds": " 21 "
+    },
+    {
+        "days": "09/02",
+        "name_match": "RFC Seraing - SK Beveren",
+        "result": "0 - 2",
+        "match_rounds": " 21 "
+    },
+    {
+        "days": "10/02",
+        "name_match": "KSC Lokeren-Temse - Raal La Louviere",
+        "result": "0 - 5",
+        "match_rounds": " 21 "
+    },
+    {
+        "days": "09/02",
+        "name_match": "Pacos de Ferreira",
+        "result": "1 - 2",
+        "match_rounds": " 21 "
+    },
+    {
+        "days": "09/02",
+        "name_match": "Mafra - Chaves",
+        "result": "0 - 0",
+        "match_rounds": " 21 "
+    },
+    {
+        "days": "09/02",
+        "name_match": "Academico Viseu - Alverca",
+        "result": "2 - 2",
+        "match_rounds": " 21 "
+    },
+    {
+        "days": "09/02",
+        "name_match": "Uniao de Leiria - FC Porto B",
+        "result": "0 - 0",
+        "match_rounds": " 21 "
+    },
+    {
+        "days": "10/02",
+        "name_match": "Al Hazm - Al Tai",
+        "result": "vs",
+        "match_rounds": " 21 "
+    },
+    {
+        "days": "10/02",
+        "name_match": "Al Najma - Al Safa",
+        "result": "vs",
+        "match_rounds": " 21 "
+    },
+    {
+        "days": "10/02",
+        "name_match": "Al Ain - NEOM SC",
+        "result": "vs",
+        "match_rounds": " 21 "
+    },
+    {
+        "days": "10/02",
+        "name_match": "Al Batin",
+        "result": "vs",
+        "match_rounds": " 21 "
+    },
+    {
+        "days": "09/02",
+        "name_match": "Malaga - Levante",
+        "result": "1 - 1",
+        "match_rounds": " Khác "
+    },
+    {
+        "days": "09/02",
+        "name_match": "Sporting Gijon - Eibar",
+        "result": "0 - 0",
+        "match_rounds": " Khác "
+    },
+    {
+        "days": "09/02",
+        "name_match": "Elche - Tenerife",
+        "result": "2 - 0",
+        "match_rounds": " Khác "
+    },
+    {
+        "days": "09/02",
+        "name_match": "Burgos CF - Racing Santander",
+        "result": "2 - 1",
+        "match_rounds": " Khác "
+    },
+    {
+        "days": "09/02",
+        "name_match": "Huesca",
+        "result": "1 - 2",
+        "match_rounds": " Khác "
+    },
+    {
+        "days": "10/02",
+        "name_match": "Cadiz - Cartagena",
+        "result": "5 - 2",
+        "match_rounds": " Khác "
+    },
+    {
+        "days": "10/02",
+        "name_match": "Almeria",
+        "result": "3 - 1",
+        "match_rounds": " Khác "
+    },
+    {
+        "days": "09/02",
+        "name_match": "PSV",
+        "result": "1 - 1",
+        "match_rounds": " 22 "
+    },
+    {
+        "days": "09/02",
+        "name_match": "NEC Nijmegen",
+        "result": "2 - 1",
+        "match_rounds": " 22 "
+    },
+    {
+        "days": "09/02",
+        "name_match": "Feyenoord - Sparta Rotterdam",
+        "result": "3 - 0",
+        "match_rounds": " 22 "
+    },
+    {
+        "days": "09/02",
+        "name_match": "FC Utrecht - Almere City FC",
+        "result": "0 - 1",
+        "match_rounds": " 22 "
+    },
+    {
+        "days": "09/02",
+        "name_match": "Fortuna Sittard - Ajax",
+        "result": "0 - 2",
+        "match_rounds": " 22 "
+    },
+    {
+        "days": "09/02",
+        "name_match": "RKC Waalwijk",
+        "result": "5 - 0",
+        "match_rounds": " 22 "
+    },
+    {
+        "days": "09/02",
+        "name_match": "AZ Alkmaar",
+        "result": "2 - 0",
+        "match_rounds": " 22 "
+    },
+    {
+        "days": "09/02",
+        "name_match": "SC Heerenveen - FC Twente",
+        "result": "3 - 3",
+        "match_rounds": " 22 "
+    },
+    {
+        "days": "09/02",
+        "name_match": "Richards Bay - Polokwane City",
+        "result": "2 - 0",
+        "match_rounds": " 13 "
+    },
+    {
+        "days": "09/02",
+        "name_match": "TS Galaxy - Chippa United",
+        "result": "1 - 0",
+        "match_rounds": " 17 "
+    },
+    {
+        "days": "09/02",
+        "name_match": "Lamontville Golden Arrows - Royal AM",
+        "result": "vs",
+        "match_rounds": " 17 "
+    },
+    {
+        "days": "09/02",
+        "name_match": "Sekhukhune United - SuperSport United",
+        "result": "1 - 1",
+        "match_rounds": " 17 "
+    },
+    {
+        "days": "09/02",
+        "name_match": "Kasimpasa - Rizespor",
+        "result": "3 - 2",
+        "match_rounds": " 23 "
+    },
+    {
+        "days": "09/02",
+        "name_match": "Alanyaspor - Fenerbahce",
+        "result": "0 - 2",
+        "match_rounds": " 23 "
+    },
+    {
+        "days": "09/02",
+        "name_match": "Antalyaspor - Istanbul Basaksehir",
+        "result": "0 - 0",
+        "match_rounds": " 23 "
+    },
+    {
+        "days": "09/02",
+        "name_match": "Galatasaray - Adana Demirspor",
+        "result": "1 - 0",
+        "match_rounds": " 23 "
+    },
+    {
+        "days": "09/02",
+        "name_match": "Vaernamo - Brentford B",
+        "result": "1 - 1",
+        "match_rounds": " 1 "
+    },
+    {
+        "days": "10/02",
+        "name_match": "Rosenborg",
+        "result": "vs",
+        "match_rounds": " 1 "
+    },
+    {
+        "days": "09/02",
+        "name_match": "Berlin - Kaiserslautern",
+        "result": "0 - 1",
+        "match_rounds": " 21 "
+    },
+    {
+        "days": "09/02",
+        "name_match": "FC Cologne - Schalke 04",
+        "result": "1 - 0",
+        "match_rounds": " Khác "
+    },
+    {
+        "days": "09/02",
+        "name_match": "Hannover 96 - Fortuna Dusseldorf",
+        "result": "1 - 1",
+        "match_rounds": " Khác "
+    },
+    {
+        "days": "09/02",
+        "name_match": "Karlsruher SC - Eintracht Braunschweig",
+        "result": "0 - 2",
+        "match_rounds": " Khác "
+    },
+    {
+        "days": "09/02",
+        "name_match": "VVV-Venlo - MVV Maastricht",
+        "result": "0 - 0",
+        "match_rounds": " 25 "
+    },
+    {
+        "days": "09/02",
+        "name_match": "Telstar - Jong FC Utrecht",
+        "result": "6 - 0",
+        "match_rounds": " Khác "
+    },
+    {
+        "days": "09/02",
+        "name_match": "Baroka FC - University of Pretoria",
+        "result": "1 - 1",
+        "match_rounds": " 18 "
+    },
+    {
+        "days": "09/02",
+        "name_match": "Bandirmaspor - Sanliurfaspor",
+        "result": "3 - 2",
+        "match_rounds": " 23 "
+    },
+    {
+        "days": "09/02",
+        "name_match": "Boluspor - Keciorengucu",
+        "result": "1 - 1",
+        "match_rounds": " 23 "
+    },
+    {
+        "days": "09/02",
+        "name_match": "Istanbulspor - Ankaragucu",
+        "result": "1 - 0",
+        "match_rounds": " 23 "
+    },
+    {
+        "days": "09/02",
+        "name_match": "Fatih Karagumruk",
+        "result": "1 - 0",
+        "match_rounds": " 23 "
+    },
+    {
+        "days": "09/02",
+        "name_match": "Celtic",
+        "result": "5 - 0",
+        "match_rounds": " 5 "
+    },
+    {
+        "days": "09/02",
+        "name_match": "Aberdeen - Dunfermline Athletic",
+        "result": "3 - 0",
+        "match_rounds": " 5 "
+    },
+    {
+        "days": "09/02",
+        "name_match": "Rangers",
+        "result": "0 - 1",
+        "match_rounds": " 5 "
+    },
+    {
+        "days": "09/02",
+        "name_match": "CSD Flandria - Sportivo Italiano",
+        "result": "1 - 1",
+        "match_rounds": " 1 "
+    },
+    {
+        "days": "09/02",
+        "name_match": "Deportivo Armenio - Deportivo Merlo",
+        "result": "3 - 0",
+        "match_rounds": " 1 "
+    },
+    {
+        "days": "09/02",
+        "name_match": "Laferrere - Real Pilar",
+        "result": "1 - 2",
+        "match_rounds": " 1 "
+    },
+    {
+        "days": "09/02",
+        "name_match": "San Martin Burzaco - Sacachispas FC",
+        "result": "0 - 0",
+        "match_rounds": " 1 "
+    },
+    {
+        "days": "10/02",
+        "name_match": "Argentino de Quilmes - CA Excursionistas",
+        "result": "2 - 1",
+        "match_rounds": " 1 "
+    },
+    {
+        "days": "10/02",
+        "name_match": "CA Fenix - CD UAI Urquiza",
+        "result": "1 - 0",
+        "match_rounds": " 1 "
+    },
+    {
+        "days": "10/02",
+        "name_match": "Comunicaciones - Dock Sud",
+        "result": "2 - 1",
+        "match_rounds": " 1 "
+    },
+    {
+        "days": "10/02",
+        "name_match": "CS Deportivo Liniers - Villa San Carlos",
+        "result": "0 - 1",
+        "match_rounds": " 1 "
+    },
+    {
+        "days": "10/02",
+        "name_match": "Villa Dalmine - CA Ferrocarril Midland",
+        "result": "0 - 0",
+        "match_rounds": " 1 "
+    },
+    {
+        "days": "09/02",
+        "name_match": "Long An - Bình Phước",
+        "result": "1 - 2",
+        "match_rounds": " 8 "
+    },
+    {
+        "days": "09/02",
+        "name_match": "Khánh Hòa",
+        "result": "2 - 0",
+        "match_rounds": " Khác "
+    },
+    {
+        "days": "09/02",
+        "name_match": "Ninh Bình",
+        "result": "1 - 0",
+        "match_rounds": " 8 "
+    },
+    {
+        "days": "10/02",
+        "name_match": "Stoke City U21 - Crystal Palace U21",
+        "result": "vs",
+        "match_rounds": " 14 "
+    },
+    {
+        "days": "09/02",
+        "name_match": "National Bank - ZED FC",
+        "result": "1 - 1",
+        "match_rounds": " 12 "
+    },
+    {
+        "days": "09/02",
+        "name_match": "Racing - Cerro",
+        "result": "0 - 1",
+        "match_rounds": " Khác "
+    },
+    {
+        "days": "09/02",
+        "name_match": "River Plate - Defensor Sporting",
+        "result": "0 - 1",
+        "match_rounds": " Khác "
+    },
+    {
+        "days": "09/02",
+        "name_match": "Juventud de las Piedras - Danubio",
+        "result": "2 - 2",
+        "match_rounds": " Khác "
+    },
+    {
+        "days": "10/02",
+        "name_match": "Boston River - Montevideo City Torque",
+        "result": "0 - 0",
+        "match_rounds": " Khác "
+    },
+    {
+        "days": "10/02",
+        "name_match": "Nacional - Club Atletico Penarol",
+        "result": "1 - 1",
+        "match_rounds": " Khác "
+    },
+    {
+        "days": "09/02",
+        "name_match": "Abo Qir Semad - Ghazl Kafr EL Dawar",
+        "result": "1 - 0",
+        "match_rounds": " 21 "
+    },
+    {
+        "days": "09/02",
+        "name_match": "Alexandria SC - Baladiyyat Al-Mehalla",
+        "result": "2 - 0",
+        "match_rounds": " 21 "
+    },
+    {
+        "days": "09/02",
+        "name_match": "El Dakhleya - Al Mokawloon Al Arab",
+        "result": "0 - 0",
+        "match_rounds": " 21 "
+    },
+    {
+        "days": "09/02",
+        "name_match": "Itesalat - Asyut Petroleum",
+        "result": "0 - 1",
+        "match_rounds": " 21 "
+    },
+    {
+        "days": "09/02",
+        "name_match": "Kahrbaa Alasmalia - Aswan FC",
+        "result": "1 - 2",
+        "match_rounds": " 21 "
+    },
+    {
+        "days": "09/02",
+        "name_match": "La Viena FC - Wadi Degla FC",
+        "result": "0 - 1",
+        "match_rounds": " 21 "
+    },
+    {
+        "days": "09/02",
+        "name_match": "Olympic El Qanah FC - Montakhab Suez",
+        "result": "1 - 0",
+        "match_rounds": " 21 "
+    },
+    {
+        "days": "09/02",
+        "name_match": "El Sekka El Hadid - El Mansura",
+        "result": "2 - 1",
+        "match_rounds": " 21 "
+    },
+    {
+        "days": "10/02",
+        "name_match": "Tanta - Proxy",
+        "result": "vs",
+        "match_rounds": " 21 "
+    },
+    {
+        "days": "10/02",
+        "name_match": "Al Tersana - Dayrot",
+        "result": "vs",
+        "match_rounds": " 21 "
+    },
+    {
+        "days": "09/02",
+        "name_match": "AS Fortuna - Colombe",
+        "result": "1 - 2",
+        "match_rounds": " 11 "
+    },
+    {
+        "days": "09/02",
+        "name_match": "Dynamo de Douala - Panthere FC",
+        "result": "0 - 0",
+        "match_rounds": " 11 "
+    },
+    {
+        "days": "09/02",
+        "name_match": "Gazelle - Coton Sport",
+        "result": "3 - 3",
+        "match_rounds": " 11 "
+    },
+    {
+        "days": "09/02",
+        "name_match": "PWD Bamenda - Fauve Azur",
+        "result": "1 - 1",
+        "match_rounds": " 11 "
+    },
+    {
+        "days": "09/02",
+        "name_match": "Stade Renard - Union Douala",
+        "result": "1 - 0",
+        "match_rounds": " 11 "
+    },
+    {
+        "days": "09/02",
+        "name_match": "Victoria United - Bamboutos",
+        "result": "0 - 1",
+        "match_rounds": " 11 "
+    },
+    {
+        "days": "10/02",
+        "name_match": "Canon Sportif - Young Sports Academy",
+        "result": "vs",
+        "match_rounds": " 11 "
+    },
+    {
+        "days": "09/02",
+        "name_match": "RB Salzburg",
+        "result": "0 - 0",
+        "match_rounds": " 17 "
+    },
+    {
+        "days": "09/02",
+        "name_match": "WSG Tirol - TSV Hartberg",
+        "result": "0 - 0",
+        "match_rounds": " 17 "
+    },
+    {
+        "days": "09/02",
+        "name_match": "LASK - BW Linz",
+        "result": "0 - 0",
+        "match_rounds": " 17 "
+    },
+    {
+        "days": "09/02",
+        "name_match": "Immigration FC - Manjung City FC",
+        "result": "4 - 0",
+        "match_rounds": " Khác "
+    },
+    {
+        "days": "09/02",
+        "name_match": "Pib FC - Malaysia University",
+        "result": "0 - 6",
+        "match_rounds": " Khác "
+    },
+    {
+        "days": "09/02",
+        "name_match": "Negeri Sembilan - Terengganu",
+        "result": "0 - 2",
+        "match_rounds": " 20 "
+    },
+    {
+        "days": "09/02",
+        "name_match": "Bengaluru FC - Jamshedpur",
+        "result": "3 - 0",
+        "match_rounds": " 21 "
+    },
+    {
+        "days": "10/02",
+        "name_match": "Odisha FC - Punjab FC",
+        "result": "vs",
+        "match_rounds": " 21 "
+    },
+    {
+        "days": "09/02",
+        "name_match": "Albirex Niigata FC - Geylang International FC",
+        "result": "1 - 1",
+        "match_rounds": " 25 "
+    },
+    {
+        "days": "09/02",
+        "name_match": "Lion City Sailors FC - Tanjong Pagar United FC",
+        "result": "4 - 1",
+        "match_rounds": " 25 "
+    },
+    {
+        "days": "09/02",
+        "name_match": "AJEL de Rufisque - US Goree",
+        "result": "1 - 0",
+        "match_rounds": " Khác "
+    },
+    {
+        "days": "09/02",
+        "name_match": "US Ouakam - Teungueth FC",
+        "result": "1 - 0",
+        "match_rounds": " Khác "
+    },
+    {
+        "days": "09/02",
+        "name_match": "Sonacos - Diaraf",
+        "result": "1 - 0",
+        "match_rounds": " Khác "
+    },
+    {
+        "days": "09/02",
+        "name_match": "PSS Sleman - Bali United",
+        "result": "1 - 2",
+        "match_rounds": " 22 "
+    },
+    {
+        "days": "09/02",
+        "name_match": "PSIS Semarang - Persib Bandung",
+        "result": "0 - 1",
+        "match_rounds": " 22 "
+    },
+    {
+        "days": "10/02",
+        "name_match": "Borneo FC Samarinda",
+        "result": "vs",
+        "match_rounds": " 22 "
+    },
+    {
+        "days": "10/02",
+        "name_match": "PSM Makassar",
+        "result": "vs",
+        "match_rounds": " 22 "
+    },
+    {
+        "days": "09/02",
+        "name_match": "FAR Rabat - Ittihad Tanger",
+        "result": "3 - 2",
+        "match_rounds": " 20 "
+    },
+    {
+        "days": "09/02",
+        "name_match": "Olympic Club de Safi - Difaa El Jadida",
+        "result": "0 - 0",
+        "match_rounds": " 20 "
+    },
+    {
+        "days": "09/02",
+        "name_match": "Renaissance Club Zemamra - Raja Casablanca",
+        "result": "1 - 2",
+        "match_rounds": " 20 "
+    },
+    {
+        "days": "10/02",
+        "name_match": "FUS Rabat - RS Berkane",
+        "result": "0 - 1",
+        "match_rounds": " 20 "
+    },
+    {
+        "days": "10/02",
+        "name_match": "Wydad Casablanca - Hassania Agadir",
+        "result": "2 - 0",
+        "match_rounds": " 20 "
+    },
+    {
+        "days": "09/02",
+        "name_match": "JSM Laayoune - KACM",
+        "result": "1 - 2",
+        "match_rounds": " Khác "
+    },
+    {
+        "days": "09/02",
+        "name_match": "OCK Khouribga - KAC Kenitra",
+        "result": "1 - 1",
+        "match_rounds": " Khác "
+    },
+    {
+        "days": "09/02",
+        "name_match": "Wydad Fes - Youssoufia Berrechid",
+        "result": "1 - 0",
+        "match_rounds": " Khác "
+    },
+    {
+        "days": "09/02",
+        "name_match": "Macarthur FC - Western United FC",
+        "result": "2 - 2",
+        "match_rounds": " 18 "
+    },
+    {
+        "days": "09/02",
+        "name_match": "Racing Club Abidjan - Stella Club",
+        "result": "3 - 0",
+        "match_rounds": " Khác "
+    },
+    {
+        "days": "09/02",
+        "name_match": "AS Denguele - Bouake FC",
+        "result": "0 - 0",
+        "match_rounds": " Khác "
+    },
+    {
+        "days": "09/02",
+        "name_match": "ASEC Mimosas - Academia F. Amadou Diallo",
+        "result": "1 - 2",
+        "match_rounds": " Khác "
+    },
+    {
+        "days": "09/02",
+        "name_match": "Inova Sca - Stade D'abidjan",
+        "result": "0 - 3",
+        "match_rounds": " Khác "
+    },
+    {
+        "days": "09/02",
+        "name_match": "San Pedro - Club Omnisports de Korhogo",
+        "result": "1 - 3",
+        "match_rounds": " Khác "
+    },
+    {
+        "days": "10/02",
+        "name_match": "Zoman FC - FC OSA",
+        "result": "1 - 1",
+        "match_rounds": " Khác "
+    },
+    {
+        "days": "09/02",
+        "name_match": "CSD Municipal - Coban Imperial",
+        "result": "vs",
+        "match_rounds": " 7 "
+    },
+    {
+        "days": "09/02",
+        "name_match": "CSD Municipal - Mixco",
+        "result": "1 - 1",
+        "match_rounds": " 7 "
+    },
+    {
+        "days": "09/02",
+        "name_match": "Deportivo Malacateco - Antigua Guatemala",
+        "result": "vs",
+        "match_rounds": " 7 "
+    },
+    {
+        "days": "09/02",
+        "name_match": "Deportivo Marquense - Deportivo Zacapa",
+        "result": "vs",
+        "match_rounds": " 7 "
+    },
+    {
+        "days": "09/02",
+        "name_match": "Mixco - Xinabajul",
+        "result": "vs",
+        "match_rounds": " 7 "
+    },
+    {
+        "days": "09/02",
+        "name_match": "Club Xelaju - Guastatoya",
+        "result": "1 - 0",
+        "match_rounds": " 7 "
+    },
+    {
+        "days": "10/02",
+        "name_match": "Coban Imperial - Antigua Guatemala",
+        "result": "0 - 1",
+        "match_rounds": " 7 "
+    },
+    {
+        "days": "10/02",
+        "name_match": "Deportivo Achuapa - Comunicaciones FC",
+        "result": "1 - 1",
+        "match_rounds": " 7 "
+    },
+    {
+        "days": "10/02",
+        "name_match": "Deportivo Malacateco - Xinabajul",
+        "result": "1 - 0",
+        "match_rounds": " 7 "
+    },
+    {
+        "days": "09/02",
+        "name_match": "Chico FC - Llaneros FC",
+        "result": "2 - 2",
+        "match_rounds": " Khác "
+    },
+    {
+        "days": "09/02",
+        "name_match": "America de Cali",
+        "result": "1 - 1",
+        "match_rounds": " Khác "
+    },
+    {
+        "days": "09/02",
+        "name_match": "Atletico Junior",
+        "result": "0 - 0",
+        "match_rounds": " Khác "
+    },
+    {
+        "days": "09/02",
+        "name_match": "Millonarios - La Equidad",
+        "result": "2 - 1",
+        "match_rounds": " Khác "
+    },
+    {
+        "days": "10/02",
+        "name_match": "Envigado - Independiente Medellin",
+        "result": "0 - 1",
+        "match_rounds": " Khác "
+    },
+    {
+        "days": "10/02",
+        "name_match": "Once Caldas - Bucaramanga",
+        "result": "2 - 1",
+        "match_rounds": " Khác "
+    },
+    {
+        "days": "10/02",
+        "name_match": "Deportivo Cali",
+        "result": "1 - 0",
+        "match_rounds": " Khác "
+    },
+    {
+        "days": "10/02",
+        "name_match": "Atletico Nacional",
+        "result": "0 - 0",
+        "match_rounds": " Khác "
+    },
+    {
+        "days": "10/02",
+        "name_match": "Cucuta - Internacional de Palmira",
+        "result": "1 - 1",
+        "match_rounds": " 2 "
+    },
+    {
+        "days": "10/02",
+        "name_match": "Real Cartagena - Bogota FC",
+        "result": "5 - 0",
+        "match_rounds": " 2 "
+    },
+    {
+        "days": "10/02",
+        "name_match": "Orsomarso - Leones",
+        "result": "2 - 3",
+        "match_rounds": " 2 "
+    },
+    {
+        "days": "09/02",
+        "name_match": "Club Africain - Gafsa",
+        "result": "2 - 1",
+        "match_rounds": " 18 "
+    },
+    {
+        "days": "09/02",
+        "name_match": "CS Sfaxien - Js Omrane",
+        "result": "0 - 0",
+        "match_rounds": " 18 "
+    },
+    {
+        "days": "09/02",
+        "name_match": "Etoile Metlaoui - Zarzis",
+        "result": "1 - 0",
+        "match_rounds": " 18 "
+    },
+    {
+        "days": "09/02",
+        "name_match": "US Monastir - AS Gabes",
+        "result": "5 - 0",
+        "match_rounds": " 18 "
+    },
+    {
+        "days": "09/02",
+        "name_match": "Avenir de La Marsa - AS Oued Ellil",
+        "result": "2 - 0",
+        "match_rounds": "Group A"
+    },
+    {
+        "days": "09/02",
+        "name_match": "ES Hamam Sousse - AS Ariana",
+        "result": "0 - 2",
+        "match_rounds": "Group A"
+    },
+    {
+        "days": "09/02",
+        "name_match": "Jendouba Sport - AS Megrine",
+        "result": "3 - 1",
+        "match_rounds": "Group A"
+    },
+    {
+        "days": "09/02",
+        "name_match": "Rogba Tataouine - AS Agareb",
+        "result": "2 - 0",
+        "match_rounds": "Group B"
+    },
+    {
+        "days": "09/02",
+        "name_match": "Sportif de Korba - EM Mahdia",
+        "result": "1 - 0",
+        "match_rounds": "Group A"
+    },
+    {
+        "days": "09/02",
+        "name_match": "CSKA 1948 Sofia - PFC Lokomotiv Sofia 1929",
+        "result": "1 - 4",
+        "match_rounds": " Khác "
+    },
+    {
+        "days": "09/02",
+        "name_match": "Botev Plovdiv - Hebar",
+        "result": "1 - 1",
+        "match_rounds": " Khác "
+    },
+    {
+        "days": "09/02",
+        "name_match": "Levski Sofia - Ludogorets",
+        "result": "2 - 1",
+        "match_rounds": " Khác "
+    },
+    {
+        "days": "10/02",
+        "name_match": "Beroe - Krumovgrad",
+        "result": "vs",
+        "match_rounds": " 20 "
+    },
+    {
+        "days": "09/02",
+        "name_match": "FC Nathalys de Pointe-Noire - St Michel M",
+        "result": "1 - 1",
+        "match_rounds": "Group B"
+    },
+    {
+        "days": "09/02",
+        "name_match": "JS Talangai - AS Otoho",
+        "result": "0 - 0",
+        "match_rounds": "Group A"
+    },
+    {
+        "days": "09/02",
+        "name_match": "Rcst - AC Leopard de Dolisie",
+        "result": "2 - 3",
+        "match_rounds": "Group B"
+    },
+    {
+        "days": "09/02",
+        "name_match": "AS Cheminots - V. Club Mokanda",
+        "result": "vs",
+        "match_rounds": "Group B"
+    },
+    {
+        "days": "09/02",
+        "name_match": "Inter Club Brazzaville - Etoile Du Congo",
+        "result": "1 - 1",
+        "match_rounds": "Group A"
+    },
+    {
+        "days": "09/02",
+        "name_match": "Rijeka - NK Istra 1961",
+        "result": "0 - 1",
+        "match_rounds": " 21 "
+    },
+    {
+        "days": "09/02",
+        "name_match": "Slaven",
+        "result": "2 - 1",
+        "match_rounds": " 21 "
+    },
+    {
+        "days": "09/02",
+        "name_match": "Olympique Akbou - MJ Arzew",
+        "result": "1 - 0",
+        "match_rounds": " Khác "
+    },
+    {
+        "days": "09/02",
+        "name_match": "Leon - Toluca",
+        "result": "3 - 3",
+        "match_rounds": " 6 "
+    },
+    {
+        "days": "09/02",
+        "name_match": "Tigres - Atlas",
+        "result": "2 - 1",
+        "match_rounds": " 6 "
+    },
+    {
+        "days": "09/02",
+        "name_match": "FC Juarez - Monterrey",
+        "result": "2 - 1",
+        "match_rounds": " 6 "
+    },
+    {
+        "days": "09/02",
+        "name_match": "Cruz Azul - Pachuca",
+        "result": "2 - 1",
+        "match_rounds": " 6 "
+    },
+    {
+        "days": "10/02",
+        "name_match": "Pumas",
+        "result": "0 - 0",
+        "match_rounds": " 6 "
+    },
+    {
+        "days": "10/02",
+        "name_match": "Tijuana",
+        "result": "vs",
+        "match_rounds": " 6 "
+    },
+    {
+        "days": "09/02",
+        "name_match": "Atlante - CD Tepatitlan de Morelos",
+        "result": "1 - 0",
+        "match_rounds": " 5 "
+    },
+    {
+        "days": "09/02",
+        "name_match": "Tlaxcala FC - Mineros de Zacatecas",
+        "result": "3 - 3",
+        "match_rounds": " 5 "
+    },
+    {
+        "days": "09/02",
+        "name_match": "Atlético Morelia - Alebrijes Oaxaca",
+        "result": "2 - 1",
+        "match_rounds": " 5 "
+    },
+    {
+        "days": "09/02",
+        "name_match": "Celaya - Correcaminos de la UAT",
+        "result": "4 - 1",
+        "match_rounds": " 5 "
+    },
+    {
+        "days": "09/02",
+        "name_match": "Jaibos Tampico Madero - Cancun FC",
+        "result": "0 - 2",
+        "match_rounds": " 5 "
+    },
+    {
+        "days": "09/02",
+        "name_match": "Angkor Tiger FC - Phnom Penh",
+        "result": "1 - 1",
+        "match_rounds": " Khác "
+    },
+    {
+        "days": "09/02",
+        "name_match": "Life FC - Svay Rieng",
+        "result": "1 - 3",
+        "match_rounds": " Khác "
+    },
+    {
+        "days": "09/02",
+        "name_match": "National Police Commissary - Nagaworld FC",
+        "result": "1 - 2",
+        "match_rounds": " Khác "
+    },
+    {
+        "days": "10/02",
+        "name_match": "Royal Cambodian Armed Forces FA - Kirivong Soksen Chey",
+        "result": "vs",
+        "match_rounds": " Khác "
+    },
+    {
+        "days": "09/02",
+        "name_match": "Anorthosis",
+        "result": "0 - 1",
+        "match_rounds": " 22 "
+    },
+    {
+        "days": "09/02",
+        "name_match": "Karmiotissa Pano Polemidion - Ethnikos Achnas",
+        "result": "0 - 0",
+        "match_rounds": " 22 "
+    },
+    {
+        "days": "09/02",
+        "name_match": "Enosis Paralimni - Nea Salamis",
+        "result": "2 - 0",
+        "match_rounds": " 22 "
+    },
+    {
+        "days": "10/02",
+        "name_match": "Aris Limassol - Larnaca",
+        "result": "1 - 1",
+        "match_rounds": " 22 "
+    },
+    {
+        "days": "09/02",
+        "name_match": "FBC Melgar - CD UT Cajamarca",
+        "result": "3 - 0",
+        "match_rounds": " Khác "
+    },
+    {
+        "days": "09/02",
+        "name_match": "Atletico Grau - Ayacucho FC",
+        "result": "1 - 0",
+        "match_rounds": " Khác "
+    },
+    {
+        "days": "09/02",
+        "name_match": "Alianza Lima - Cusco FC",
+        "result": "3 - 0",
+        "match_rounds": " Khác "
+    },
+    {
+        "days": "10/02",
+        "name_match": "Alianza Universidad - Sporting Cristal",
+        "result": "2 - 2",
+        "match_rounds": " Khác "
+    },
+    {
+        "days": "10/02",
+        "name_match": "Sport Boys - ADC Juan Pablo II",
+        "result": "1 - 0",
+        "match_rounds": " Khác "
+    },
+    {
+        "days": "10/02",
+        "name_match": "Comerciantes Unidos - Universitario de Deportes",
+        "result": "1 - 1",
+        "match_rounds": " Khác "
+    },
+    {
+        "days": "10/02",
+        "name_match": "Cienciano - Asociacion Deportiva Tarma",
+        "result": "2 - 2",
+        "match_rounds": " Khác "
+    },
+    {
+        "days": "09/02",
+        "name_match": "Viktoria Plzen",
+        "result": "3 - 2",
+        "match_rounds": " 21 "
+    },
+    {
+        "days": "09/02",
+        "name_match": "Jablonec - Slovacko",
+        "result": "4 - 2",
+        "match_rounds": " 21 "
+    },
+    {
+        "days": "09/02",
+        "name_match": "Banik Ostrava - SK Sigma Olomouc",
+        "result": "1 - 0",
+        "match_rounds": " 21 "
+    },
+    {
+        "days": "09/02",
+        "name_match": "Bohemians 1905 - SK Dynamo Ceske Budejovice",
+        "result": "1 - 0",
+        "match_rounds": " 21 "
+    },
+    {
+        "days": "10/02",
+        "name_match": "Sparta Prague - Hradec Kralove",
+        "result": "3 - 0",
+        "match_rounds": " 21 "
+    },
+    {
+        "days": "10/02",
+        "name_match": "AL Karmel - Dogra",
+        "result": "vs",
+        "match_rounds": " Khác "
+    },
+    {
+        "days": "09/02",
+        "name_match": "Kaya FC - Philippines U20",
+        "result": "4 - 1",
+        "match_rounds": " Khác "
+    },
+    {
+        "days": "09/02",
+        "name_match": "Taguig - Manila Digger",
+        "result": "0 - 1",
+        "match_rounds": " Khác "
+    },
+    {
+        "days": "10/02",
+        "name_match": "Bahla - Al-Khaboora",
+        "result": "vs",
+        "match_rounds": " 14 "
+    },
+    {
+        "days": "09/02",
+        "name_match": "Dibba Al-Hisn - Al-Wasl",
+        "result": "2 - 3",
+        "match_rounds": " 15 "
+    },
+    {
+        "days": "09/02",
+        "name_match": "Baniyas - Al-Nasr SC",
+        "result": "0 - 0",
+        "match_rounds": " 15 "
+    },
+    {
+        "days": "09/02",
+        "name_match": "Al Fujairah - Hatta",
+        "result": "2 - 1",
+        "match_rounds": " Khác "
+    },
+    {
+        "days": "09/02",
+        "name_match": "Al-Thaid - Al Hamriyah",
+        "result": "vs",
+        "match_rounds": " 16 "
+    },
+    {
+        "days": "09/02",
+        "name_match": "Dibba Al Fujairah - Emirates Club",
+        "result": "vs",
+        "match_rounds": " 16 "
+    },
+    {
+        "days": "09/02",
+        "name_match": "Emirates Club - Masfoot Sports Club",
+        "result": "1 - 0",
+        "match_rounds": " Khác "
+    },
+    {
+        "days": "09/02",
+        "name_match": "Gulf United - Al-Thaid",
+        "result": "3 - 2",
+        "match_rounds": " Khác "
+    },
+    {
+        "days": "09/02",
+        "name_match": "Hatta - Gulf United",
+        "result": "vs",
+        "match_rounds": " 16 "
+    },
+    {
+        "days": "09/02",
+        "name_match": "Al Hamriyah - Dibba Al Fujairah",
+        "result": "1 - 4",
+        "match_rounds": " Khác "
+    },
+    {
+        "days": "09/02",
+        "name_match": "Lausanne - Yverdon",
+        "result": "4 - 1",
+        "match_rounds": " 23 "
+    },
+    {
+        "days": "09/02",
+        "name_match": "Lugano - Grasshopper",
+        "result": "1 - 1",
+        "match_rounds": " 23 "
+    },
+    {
+        "days": "09/02",
+        "name_match": "Young Boys - Sion",
+        "result": "5 - 1",
+        "match_rounds": " 23 "
+    },
+    {
+        "days": "09/02",
+        "name_match": "Servette - Basel",
+        "result": "2 - 1",
+        "match_rounds": " 23 "
+    },
+    {
+        "days": "09/02",
+        "name_match": "St. Gallen",
+        "result": "1 - 2",
+        "match_rounds": " 23 "
+    },
+    {
+        "days": "09/02",
+        "name_match": "Luzern - Winterthur",
+        "result": "3 - 2",
+        "match_rounds": " 23 "
+    },
+    {
+        "days": "09/02",
+        "name_match": "FC Vaduz - FC Wil 1900",
+        "result": "1 - 0",
+        "match_rounds": " 21 "
+    },
+    {
+        "days": "09/02",
+        "name_match": "Thun - Bellinzona",
+        "result": "2 - 0",
+        "match_rounds": " 21 "
+    },
+    {
+        "days": "09/02",
+        "name_match": "Rangers - Kitchee",
+        "result": "1 - 2",
+        "match_rounds": " 15 "
+    },
+    {
+        "days": "09/02",
+        "name_match": "Hong Kong FC - Tai Po",
+        "result": "0 - 4",
+        "match_rounds": " 15 "
+    },
+    {
+        "days": "09/02",
+        "name_match": "Hoi King - Resources Capital FC",
+        "result": "vs",
+        "match_rounds": " Khác "
+    },
+    {
+        "days": "09/02",
+        "name_match": "Eastern District - Wing Yee",
+        "result": "5 - 2",
+        "match_rounds": " Khác "
+    },
+    {
+        "days": "09/02",
+        "name_match": "Tuen Mun SA - 3 Sing FC",
+        "result": "1 - 2",
+        "match_rounds": " Khác "
+    },
+    {
+        "days": "09/02",
+        "name_match": "Sham Shui Po - South China",
+        "result": "0 - 0",
+        "match_rounds": " Khác "
+    },
+    {
+        "days": "09/02",
+        "name_match": "Shatin SA - Citizen",
+        "result": "1 - 3",
+        "match_rounds": " Khác "
+    },
+    {
+        "days": "09/02",
+        "name_match": "Yuen Long - Central & Western",
+        "result": "1 - 1",
+        "match_rounds": " Khác "
+    },
+    {
+        "days": "09/02",
+        "name_match": "Al-Riffa - Malkia",
+        "result": "0 - 2",
+        "match_rounds": " 10 "
+    },
+    {
+        "days": "09/02",
+        "name_match": "East Riffa - Muharraq",
+        "result": "0 - 3",
+        "match_rounds": " 10 "
+    },
+    {
+        "days": "10/02",
+        "name_match": "Al-Hidd - Al Tadamun Bari",
+        "result": "vs",
+        "match_rounds": " Khác "
+    },
+    {
+        "days": "10/02",
+        "name_match": "Al-Ittihad - Al Ittifaq BHR",
+        "result": "vs",
+        "match_rounds": " Khác "
+    },
+    {
+        "days": "10/02",
+        "name_match": "Isa Town - Bouri",
+        "result": "vs",
+        "match_rounds": " Khác "
+    },
+    {
+        "days": "09/02",
+        "name_match": "Naft Al Junoob - Al Hedood",
+        "result": "3 - 1",
+        "match_rounds": " 19 "
+    },
+    {
+        "days": "09/02",
+        "name_match": "Al Kahrabaa - Al Najaf",
+        "result": "0 - 0",
+        "match_rounds": " 19 "
+    },
+    {
+        "days": "09/02",
+        "name_match": "Duhok - Al Naft",
+        "result": "1 - 0",
+        "match_rounds": " 19 "
+    },
+    {
+        "days": "09/02",
+        "name_match": "Zakho - Al-Qasim",
+        "result": "6 - 2",
+        "match_rounds": " 19 "
+    },
+    {
+        "days": "10/02",
+        "name_match": "Newroz - Erbil",
+        "result": "vs",
+        "match_rounds": " 19 "
+    },
+    {
+        "days": "10/02",
+        "name_match": "Al Quwa Al Jawiya - Karbalaa",
+        "result": "vs",
+        "match_rounds": " 19 "
+    },
+    {
+        "days": "09/02",
+        "name_match": "Gyori ETO - Ujpest",
+        "result": "3 - 0",
+        "match_rounds": " 19 "
+    },
+    {
+        "days": "09/02",
+        "name_match": "Zalaegerszeg - Diosgyori VTK",
+        "result": "2 - 1",
+        "match_rounds": " 19 "
+    },
+    {
+        "days": "10/02",
+        "name_match": "Puskas FC Academy - Ferencvaros",
+        "result": "1 - 0",
+        "match_rounds": " 19 "
+    },
+    {
+        "days": "09/02",
+        "name_match": "Bekescsaba - Kozarmisleny",
+        "result": "1 - 1",
+        "match_rounds": " 16 "
+    },
+    {
+        "days": "09/02",
+        "name_match": "Bvsc-Zuglo - Mezokovesd SE",
+        "result": "1 - 3",
+        "match_rounds": " 16 "
+    },
+    {
+        "days": "09/02",
+        "name_match": "Gyirmot - Soroksar SC",
+        "result": "4 - 0",
+        "match_rounds": " 16 "
+    },
+    {
+        "days": "09/02",
+        "name_match": "Kazincbarcika SC - Aqvital FC Csakvar",
+        "result": "2 - 0",
+        "match_rounds": " 16 "
+    },
+    {
+        "days": "09/02",
+        "name_match": "Szentlorinc - FC Ajka",
+        "result": "2 - 0",
+        "match_rounds": " 16 "
+    },
+    {
+        "days": "09/02",
+        "name_match": "Szeged 2011 - Tatabanya",
+        "result": "2 - 0",
+        "match_rounds": " 16 "
+    },
+    {
+        "days": "09/02",
+        "name_match": "Budapest Honved - Budafok",
+        "result": "1 - 2",
+        "match_rounds": " 16 "
+    },
+    {
+        "days": "09/02",
+        "name_match": "Zilina - FC Kosice",
+        "result": "0 - 2",
+        "match_rounds": " 19 "
+    },
+    {
+        "days": "09/02",
+        "name_match": "Ruzomberok - Slovan Bratislava",
+        "result": "1 - 5",
+        "match_rounds": " 19 "
+    },
+    {
+        "days": "09/02",
+        "name_match": "Trencin - Komarno",
+        "result": "1 - 0",
+        "match_rounds": " 19 "
+    },
+    {
+        "days": "09/02",
+        "name_match": "Vojvodina - Partizan Beograd",
+        "result": "0 - 0",
+        "match_rounds": " 22 "
+    },
+    {
+        "days": "09/02",
+        "name_match": "Jedinstvo Ub - Novi Pazar",
+        "result": "0 - 1",
+        "match_rounds": " 22 "
+    },
+    {
+        "days": "09/02",
+        "name_match": "OFK Beograd - Napredak",
+        "result": "0 - 2",
+        "match_rounds": " 22 "
+    },
+    {
+        "days": "10/02",
+        "name_match": "Radnicki Nis - FK IMT Beograd",
+        "result": "3 - 0",
+        "match_rounds": " 22 "
+    },
+    {
+        "days": "10/02",
+        "name_match": "FK Spartak Subotica - Zeleznicar Pancevo",
+        "result": "0 - 0",
+        "match_rounds": " 22 "
+    },
+    {
+        "days": "09/02",
+        "name_match": "Otelul Galati - FC Rapid 1923",
+        "result": "1 - 1",
+        "match_rounds": " 26 "
+    },
+    {
+        "days": "09/02",
+        "name_match": "Hermannstadt - Petrolul Ploiesti",
+        "result": "1 - 1",
+        "match_rounds": " 26 "
+    },
+    {
+        "days": "09/02",
+        "name_match": "Universitatea Cluj - CSM Politehnica Iasi",
+        "result": "2 - 2",
+        "match_rounds": " 26 "
+    },
+    {
+        "days": "10/02",
+        "name_match": "FCSB - Sepsi OSK",
+        "result": "3 - 0",
+        "match_rounds": " 26 "
+    },
+    {
+        "days": "10/02",
+        "name_match": "FCV Farul Constanta - FC Buzau",
+        "result": "vs",
+        "match_rounds": " 26 "
+    },
+    {
+        "days": "09/02",
+        "name_match": "Piast Gliwice - Legia Warszawa",
+        "result": "1 - 0",
+        "match_rounds": " 20 "
+    },
+    {
+        "days": "09/02",
+        "name_match": "Korona Kielce",
+        "result": "1 - 0",
+        "match_rounds": " 20 "
+    },
+    {
+        "days": "09/02",
+        "name_match": "Widzew Lodz",
+        "result": "1 - 1",
+        "match_rounds": " 20 "
+    },
+    {
+        "days": "09/02",
+        "name_match": "Lechia Gdansk - Lech Poznan",
+        "result": "1 - 0",
+        "match_rounds": " 20 "
+    },
+    {
+        "days": "09/02",
+        "name_match": "PAOK FC",
+        "result": "0 - 5",
+        "match_rounds": " 22 "
+    },
+    {
+        "days": "09/02",
+        "name_match": "Olympiacos - Asteras Tripolis",
+        "result": "1 - 1",
+        "match_rounds": " 22 "
+    },
+    {
+        "days": "10/02",
+        "name_match": "Aris",
+        "result": "2 - 0",
+        "match_rounds": " 22 "
+    },
+    {
+        "days": "10/02",
+        "name_match": "Athens - Panserraikos FC",
+        "result": "5 - 0",
+        "match_rounds": " 22 "
+    },
+    {
+        "days": "10/02",
+        "name_match": "Atromitos - Athens Kallithea",
+        "result": "vs",
+        "match_rounds": " 22 "
+    },
+    {
+        "days": "10/02",
+        "name_match": "Lamia - Levadiakos",
+        "result": "vs",
+        "match_rounds": " 22 "
+    },
+    {
+        "days": "09/02",
+        "name_match": "La Fiorita - SS Pennarossa",
+        "result": "3 - 0",
+        "match_rounds": " 20 "
+    },
+    {
+        "days": "09/02",
+        "name_match": "Tre Penne Galazzano - Cailungo",
+        "result": "2 - 1",
+        "match_rounds": " 20 "
+    },
+    {
+        "days": "09/02",
+        "name_match": "Folgore - FC Fiorentino",
+        "result": "2 - 2",
+        "match_rounds": " 20 "
+    },
+    {
+        "days": "09/02",
+        "name_match": "Juvenes/Dogana - San Giovanni",
+        "result": "2 - 3",
+        "match_rounds": " 20 "
+    },
+    {
+        "days": "10/02",
+        "name_match": "Domagnano - Tre Fiori",
+        "result": "1 - 0",
+        "match_rounds": " 20 "
+    },
+    {
+        "days": "09/02",
+        "name_match": "Shamakhi FK - Sumqayit",
+        "result": "1 - 0",
+        "match_rounds": " 22 "
+    },
+    {
+        "days": "09/02",
+        "name_match": "Sabah FK - Turan Tovuz",
+        "result": "2 - 1",
+        "match_rounds": " 22 "
+    },
+    {
+        "days": "10/02",
+        "name_match": "Araz PFK - FC Kapaz",
+        "result": "vs",
+        "match_rounds": " 22 "
+    },
+    {
+        "days": "10/02",
+        "name_match": "Zira - FK Neftchi",
+        "result": "vs",
+        "match_rounds": " 22 "
+    },
+    {
+        "days": "09/02",
+        "name_match": "FC Ashdod - Hapoel Beer Sheva",
+        "result": "0 - 2",
+        "match_rounds": " 22 "
+    },
+    {
+        "days": "10/02",
+        "name_match": "Hapoel Ironi Kiryat Shmona - Maccabi Tel Aviv",
+        "result": "1 - 2",
+        "match_rounds": " 22 "
+    },
+    {
+        "days": "09/02",
+        "name_match": "Elbasani - KF Egnatia",
+        "result": "vs",
+        "match_rounds": " 24 "
+    },
+    {
+        "days": "09/02",
+        "name_match": "Partizani - KF Tirana",
+        "result": "1 - 1",
+        "match_rounds": " 24 "
+    },
+    {
+        "days": "09/02",
+        "name_match": "AF Elbasani - KF Egnatia",
+        "result": "1 - 2",
+        "match_rounds": " 24 "
+    },
+    {
+        "days": "09/02",
+        "name_match": "Vllaznia - KF Bylis",
+        "result": "3 - 0",
+        "match_rounds": " 24 "
+    },
+    {
+        "days": "10/02",
+        "name_match": "Skenderbeu - Laci",
+        "result": "vs",
+        "match_rounds": " 24 "
+    },
+    {
+        "days": "10/02",
+        "name_match": "Teuta Durres - FC Dinamo City",
+        "result": "vs",
+        "match_rounds": " 24 "
+    },
+    {
+        "days": "09/02",
+        "name_match": "FC Santa Coloma - FC Pas de La Casa",
+        "result": "1 - 0",
+        "match_rounds": " 16 "
+    },
+    {
+        "days": "09/02",
+        "name_match": "FC Ordino - FC Rangers",
+        "result": "2 - 1",
+        "match_rounds": " 16 "
+    },
+    {
+        "days": "09/02",
+        "name_match": "La Massana - UE Santa Coloma",
+        "result": "0 - 6",
+        "match_rounds": " 16 "
+    },
+    {
+        "days": "09/02",
+        "name_match": "Penya Encarnada d'Andorra - Inter Club d'Escaldes",
+        "result": "1 - 1",
+        "match_rounds": " 16 "
+    },
+    {
+        "days": "10/02",
+        "name_match": "CF Esperanca - Atletic Escaldes",
+        "result": "0 - 5",
+        "match_rounds": " 16 "
+    },
+    {
+        "days": "09/02",
+        "name_match": "CF Atletic America - UE Santa Coloma B",
+        "result": "3 - 0",
+        "match_rounds": " Khác "
+    },
+    {
+        "days": "09/02",
+        "name_match": "Atletic Club Escaldes B - FC Rangers B",
+        "result": "vs",
+        "match_rounds": " Khác "
+    },
+    {
+        "days": "09/02",
+        "name_match": "Cliftonville - Portadown",
+        "result": "2 - 2",
+        "match_rounds": " 28 "
+    }
+]
